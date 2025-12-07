@@ -1,7 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(){
-	printf("hello");
-	return 0;
+//we are charlie kirk
 }
-
 
